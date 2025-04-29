@@ -1,44 +1,14 @@
 {
   "main": {
-    "id": "d96709dcb1519e26",
+    "id": "ebdb848f4d1c5c7c",
     "type": "split",
     "children": [
       {
-        "id": "f292cd46f832e586",
+        "id": "7c3abd70d2918a83",
         "type": "tabs",
         "children": [
           {
-            "id": "5e31e7f1028cdb1e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "SUMMARY"
-            }
-          },
-          {
-            "id": "d82a6586292649af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "welcome-to-swift/version-compatibility.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "version-compatibility"
-            }
-          },
-          {
-            "id": "2d25ba881080209c",
+            "id": "b8e2ba1fefa332d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,31 +21,30 @@
               "title": "the-basics"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "985b4ede94ee90cc",
+    "id": "dee7ea7d8499337f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "25c2427c24ff8741",
+        "id": "d6a683bbb835a719",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "7413dd9e8592e6fa",
+        "id": "a428fc7d1631de92",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -92,7 +61,7 @@
         }
       },
       {
-        "id": "be4c18f26ed124fe",
+        "id": "c34c28a919c57370",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -107,7 +76,7 @@
         }
       },
       {
-        "id": "57eeb8b867cfacd1",
+        "id": "3984c703abe527c3",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -117,19 +86,19 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
-    "id": "c108c88a1fef8473",
+    "id": "d321c2e7b0acdd3c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f96fb188b2a68721",
+        "id": "76f8905546cc6bb6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "language-guide-1/the-basics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,12 +112,12 @@
         }
       },
       {
-        "id": "1a7cc2d52358c1f8",
+        "id": "2581674d81f0360c",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "language-guide-1/the-basics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -157,12 +126,12 @@
         }
       },
       {
-        "id": "37b8fc9b1a3cb515",
+        "id": "e78e140d8013cb11",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "language-guide-1/the-basics.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,11 +153,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d25ba881080209c",
+  "active": "b8e2ba1fefa332d3",
   "lastOpenFiles": [
     "SUMMARY.md",
-    "welcome-to-swift/version-compatibility.md",
-    "language-guide-1/control-flow.md",
-    "language-guide-1/the-basics.md"
+    "Untitled.canvas",
+    "2025-04-30.md",
+    "language-guide-1/the-basics.md",
+    "language-reference/lexical-structure.md",
+    "language-reference/expressions.md",
+    "language-reference/types.md",
+    "language-reference/about-the-language-reference.md",
+    "language-reference/attributes.md",
+    "language-reference/patterns.md",
+    "language-reference/statements.md",
+    "language-reference/declarations.md",
+    "language-reference/generic-parameters-and-arguments.md",
+    "language-reference/summary-of-the-grammar.md",
+    "language-reference",
+    "language-guide-1/basic-operators.md",
+    "language-guide-1/type-casting.md",
+    "language-guide-1/enumerations.md",
+    "language-guide-1/advanced-operators.md",
+    "language-guide-1/concurrency.md",
+    "language-guide-1/protocols.md",
+    "language-guide-1/collection-types.md",
+    "language-guide-1/structures-and-classes.md",
+    "language-guide-1/closures.md",
+    "language-guide-1/error-handling.md",
+    "language-guide-1/strings-and-characters.md",
+    "language-guide-1/automatic-reference-counting.md",
+    "language-guide-1",
+    "revision-history",
+    "welcome-to-swift",
+    "contact"
   ]
 }
