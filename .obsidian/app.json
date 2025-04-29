@@ -1,5 +1,8 @@
 {
   "mobileToolbarCommands": [
+    "highlightr-plugin:Orange",
+    "bookmarks:bookmark-current-heading",
+    "highlightr-plugin:unhighlight",
     "editor:insert-wikilink",
     "editor:insert-embed",
     "editor:insert-tag",
@@ -23,13 +26,13 @@
     "highlightr-plugin:highlighter-plugin-menu",
     "highlightr-plugin:Pink",
     "highlightr-plugin:Red",
-    "highlightr-plugin:Orange",
-    "highlightr-plugin:unhighlight",
     "highlightr-plugin:Yellow",
     "highlightr-plugin:Green",
     "highlightr-plugin:Cyan",
     "highlightr-plugin:Blue",
     "highlightr-plugin:Purple",
-    "highlightr-plugin:Grey"
+    "highlightr-plugin:Grey",
+    "insert-current-date",
+    "insert-current-time"
   ]
 }

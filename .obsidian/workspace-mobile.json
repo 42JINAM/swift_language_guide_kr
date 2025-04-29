@@ -24,21 +24,7 @@
             }
           },
           {
-            "id": "d82a6586292649af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "welcome-to-swift/version-compatibility.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "version-compatibility"
-            }
-          },
-          {
-            "id": "2d25ba881080209c",
+            "id": "e7940baeabeca941",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +103,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "c108c88a1fef8473",
@@ -129,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "language-guide-1/the-basics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d25ba881080209c",
+  "active": "57eeb8b867cfacd1",
   "lastOpenFiles": [
     "SUMMARY.md",
     "welcome-to-swift/version-compatibility.md",
-    "language-guide-1/control-flow.md",
-    "language-guide-1/the-basics.md"
+    "language-reference/declarations.md",
+    "language-guide-1/the-basics.md",
+    "language-guide-1/control-flow.md"
   ]
 }
