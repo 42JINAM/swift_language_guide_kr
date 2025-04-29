@@ -54,7 +54,7 @@ _"`maximumNumberOfLoginAttempts` 인 새로운 상수를 선언하고 `10` 이�
 또는
 처음 값을 읽기 전에
 값의 존재가 보장되면
-프로그램에 마지막에 초기화 값을 할당할 수 있습니다.
+<mark style="background: #FFF3A3A6;">프로그램에 마지막에 초기화 값을 할당할 수 있습니다</mark>.
 
 ```swift
 var environment = "development"
