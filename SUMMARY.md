@@ -4,9 +4,9 @@
 
 ## WELCOME TO SWIFT
 
-* [Swift 에 대해 (About Swift)](welcome-to-swift/swift-about-swift.md)
-* [버전 호환성 (Version Compatibility)](welcome-to-swift/version-compatibility.md)
-* [Swift 둘러보기 (A Swift Tour)](welcome-to-swift/swift-a-swift-tour.md)
+* [x] [Swift 에 대해 (About Swift)](welcome-to-swift/swift-about-swift.md)
+* [x] [버전 호환성 (Version Compatibility)](welcome-to-swift/version-compatibility.md)
+* [x] [Swift 둘러보기 (A Swift Tour)](welcome-to-swift/swift-a-swift-tour.md)
 
 ## Language Guide <a href="#language-guide-1" id="language-guide-1"></a>
 
