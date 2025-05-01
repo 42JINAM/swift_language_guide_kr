@@ -25,6 +25,7 @@
     "editor:configure-toolbar",
     "highlightr-plugin:highlighter-plugin-menu",
     "highlightr-plugin:Pink",
+    "highlightr-plugin:unhighlight",
     "highlightr-plugin:Red",
     "highlightr-plugin:Yellow",
     "highlightr-plugin:Green",
