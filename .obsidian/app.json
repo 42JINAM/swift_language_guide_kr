@@ -35,5 +35,7 @@
     "highlightr-plugin:Grey",
     "insert-current-date",
     "insert-current-time"
-  ]
+  ],
+  "livePreview": false,
+  "defaultViewMode": "preview"
 }

@@ -11,8 +11,8 @@
 ## Language Guide <a href="#language-guide-1" id="language-guide-1"></a>
 
 * [x] [기본 (The Basics)](language-guide-1/the-basics.md)
-* [기본 연산자 (Basic Operators)](language-guide-1/basic-operators.md)
-* [문자열과 문자 (Strings and Characters)](language-guide-1/strings-and-characters.md)
+* [x] [기본 연산자 (Basic Operators)](language-guide-1/basic-operators.md)
+* [x] [문자열과 문자 (Strings and Characters)](language-guide-1/strings-and-characters.md)
 * [콜렉션 타입 (Collection Types)](language-guide-1/collection-types.md)
 * [제어 흐름 (Control Flow)](language-guide-1/control-flow.md)
 * [함수 (Functions)](language-guide-1/functions.md)
